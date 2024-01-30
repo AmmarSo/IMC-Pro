@@ -1,0 +1,2 @@
+# IMC-Pro
+ IMC Pro est conçu pour offrir une solution complète et intuitive à la gestion de votre santé. Cette application permet de calculer avec précision votre Indice de Masse Corporelle (IMC) en tenant compte de critères essentiels tels que l'âge, le poids, la taille et le genre. Elle est conçue pour accompagner les utilisateurs dans leur parcours de santé, en fournissant des évaluations claires, des catégorisations respectueuses et des conseils de santé sur mesure.
